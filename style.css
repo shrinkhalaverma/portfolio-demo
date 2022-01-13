@@ -1,0 +1,60 @@
+.cbody {
+  background-image: radial-gradient(blue, lightblue);
+}
+
+.main-menu {
+  width: 100%;
+  background-color: cyan;
+}
+.table-2 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.table-1 {
+  margin-right: auto;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+}
+tr {
+  font-size: large;
+}
+p {
+  border-style: double;
+}
+
+.skill-img {
+  width: 100px;
+  height: 100px;
+}
+
+.skill-td {
+  text-align: center;
+}
+form {
+  color: black;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+.box {
+  background-color: cadetblue;
+  width: 300px;
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+input {
+  margin: 20px auto;
+  text-align: center;
+  padding: 14px 10px;
+  border-radius: 24px;
+  width: 200px;
+  background: none;
+}
